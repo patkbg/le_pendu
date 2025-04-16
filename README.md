@@ -12,6 +12,8 @@ Un petit projet en Python pour jouer au **jeu du Pendu** directement dans le ter
 
 Voici une démonstration du jeu :
 
+[Screencast from 2025-04-16 14-32-00.webm](https://github.com/user-attachments/assets/a2404d13-6016-4443-b7ce-63b26f563e28)
+
 
 ## 🧠 Fonctionnement
 
