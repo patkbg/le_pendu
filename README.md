@@ -4,9 +4,9 @@ Un petit projet en Python pour jouer au **jeu du Pendu** directement dans **le t
 
 ## 📁 Structure du projet
 
-- pendu.py : script principal du jeu
-- mots_dev.txt : liste de mots
-- README.md : documentation du projet
+- `pendu.py` : script principal du jeu
+- `mots_dev.txt` : liste de mots
+- `README.md` : documentation du projet
 
 ## 📹 Vidéo de démo
 
@@ -39,3 +39,7 @@ Le programme :
 - simplifier et rendre le code propre
 - Mode facile / difficile (en cours)
 - Enregistrement des scores
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-kabongo-7440592b5/)
