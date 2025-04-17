@@ -1,6 +1,6 @@
-# 🪢 Jeu du Pendu – Python Terminal
+# 🪢 Jeu du Pendu
 
-Un petit projet en Python pour jouer au **jeu du Pendu** directement dans le terminal. Le mot à deviner est choisi aléatoirement depuis un fichier texte.
+Un petit projet en Python pour jouer au **jeu du Pendu** directement dans **le terminal**. Le mot à deviner est choisi aléatoirement depuis un fichier texte.
 
 ## 📁 Structure du projet
 
@@ -24,7 +24,17 @@ Le programme :
 - indique les lettres correctes et les erreurs
 - s’arrête quand le mot est deviné ou que les essais sont épuisés
 
-## ✨ Structure du projet
+## 🛠️ Notions travaillées
+
+- Lecture de fichiers (open)
+- Manipulation de listes et ensembles
+- Boucle while et conditions if/else
+- Entrées utilisateur (input)
+- Module random
+- Fonctions (def)
+- Logique de jeu
+
+## ✨ Idées d'amélioration
 
 - simplifier et rendre le code propre
 - Mode facile / difficile (en cours)
